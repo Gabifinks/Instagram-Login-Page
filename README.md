@@ -12,7 +12,7 @@
 
 
 ##### <u>Sua responsividade:</u>
-[ ![](https://i.imgur.com/be8XBOQ.png)](https://i.imgur.com/be8XBOQ.png)
+[ ![](https://i.imgur.com/eUhtgin.png)](https://i.imgur.com/eUhtgin.png)
 
 ### 💻 Tecnologias Utilizadas:
 
