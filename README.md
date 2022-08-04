@@ -11,9 +11,9 @@
 
 
 
-##### <u>Sua resposividade:</u>
-
-[Responsividade](https://i.imgur.com/be8XBOQ.png)
+##### <u>Sua responsividade:</u>
+img
+[ ![](https://i.imgur.com/be8XBOQ.png)](https://i.imgur.com/be8XBOQ.png)
 
 ### 💻 Tecnologias Utilizadas:
 
