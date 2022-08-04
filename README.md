@@ -7,12 +7,11 @@
 
 ##### <u>Minha página Web:</u>
 
-![](C:\Users\Gabriela Fink\AppData\Roaming\Typora\typora-user-images\image-20220804123605503.png)
+[ ![](https://i.imgur.com/dzdmLYm.png)](https://i.imgur.com/dzdmLYm.png)
 
 
 
 ##### <u>Sua responsividade:</u>
-img
 [ ![](https://i.imgur.com/be8XBOQ.png)](https://i.imgur.com/be8XBOQ.png)
 
 ### 💻 Tecnologias Utilizadas:
