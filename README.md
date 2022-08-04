@@ -13,7 +13,7 @@
 
 ##### <u>Sua resposividade:</u>
 
-<img src="C:\Users\Gabriela Fink\AppData\Roaming\Typora\typora-user-images\image-20220804124139307.png" alt="image-20220804124139307" style="zoom: 67%;" />
+[Responsividade](https://imgur.com/be8XBOQ)
 
 ### 💻 Tecnologias Utilizadas:
 
