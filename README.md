@@ -13,7 +13,7 @@
 
 ##### <u>Sua resposividade:</u>
 
-[Responsividade]((https://imgur.com/a/sZueX5b))
+[Responsividade]([(https://imgur.com/a/sZueX5b)](https://i.imgur.com/be8XBOQ.png))
 
 ### 💻 Tecnologias Utilizadas:
 
